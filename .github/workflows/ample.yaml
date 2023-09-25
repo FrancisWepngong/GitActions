@@ -3,7 +3,7 @@
  on: [push]
 
  jobs:
-    shellcommands
+   shell commands
       runs-on: ubuntu-latest
       steps: 
         - name: checkout
